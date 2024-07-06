@@ -1,0 +1,16 @@
+.list-item {
+    color: black;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 16px auto;
+}
+
+.list {
+    background-color: aquamarine;
+    margin-right: 200px;
+}
+
+* {
+    outline: 2px solid red;
+}
+
