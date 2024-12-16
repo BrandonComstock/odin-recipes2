@@ -2,15 +2,18 @@
     color: black;
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
-    margin: 16px auto;
+    margin: 35px auto;
 }
 
-.list {
+.list a{
     background-color: aquamarine;
-    margin-right: 200px;
+    padding: 1em 2em;
 }
 
-* {
-    outline: 2px solid red;
+.list a:hover {
+    background-color: blueviolet;
+    color: #fff
 }
+
+
 
